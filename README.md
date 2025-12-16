@@ -74,7 +74,7 @@
 
 1. 仍在 **Variables** 页面，找到上方的 **Environment Variables**。
 2. 点击 **Add variable**：
-   * **AUTH_SECRET=设置你的密码
+       AUTH_SECRET=设置你的密码
 3. 点击 **Deploy** 保存。
 
 ### 🎉 大功告成！
